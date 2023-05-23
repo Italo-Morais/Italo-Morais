@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Italo-Morais">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italo-Morais&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Morais&layout=donut"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Morais&layout=donut&theme=radical"/>
 </div>
 <div style="display: inline_block"><br
                                        
@@ -21,8 +21,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Italo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Italo-NXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
           
-  
- ![Snake animation](https://github.com/Italo-Morais/Italo-Morais/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
