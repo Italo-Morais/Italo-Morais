@@ -1,7 +1,5 @@
 ### Olá, eu sou o Italo Morais 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estou estudando TypeScript
 - 😄 Pronouns: Ele/dele
